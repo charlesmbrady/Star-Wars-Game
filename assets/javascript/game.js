@@ -279,7 +279,7 @@ function resetGame () {
     }
     
     /////////////////////// Event Listeners //////////////////////////////////////
-   /* $(".character").on("click", function(){
+   $(".character").on("click", function(){
         if(isCharacterChosen == false){
             backgroundMusic.play();
             myCharacter = $(this);
@@ -375,21 +375,11 @@ function resetGame () {
         
     
     });
-    */
+    
 
 }
 
 
 /******************************************************************************* */
-
-
-
-
-
-
-
-
-
-
 
 });
