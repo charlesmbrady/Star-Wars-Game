@@ -1,8 +1,5 @@
 $(document).ready(function () {
-    //sounds
-    //add background sound star wars theme song
-    //add lightsaber noise whenever an attack is made
-    //add dying sound whenever someone dies
+///////////////////////////    Sounds   //////////////////////////////////////
     var backgroundMusic = new Audio("https://ia801703.us.archive.org/15/items/StarWarsThemeSongByJohnWilliams/Star%20Wars%20Theme%20Song%20By%20John%20Williams.mp3");
     backgroundMusic.loop = true;
 
@@ -47,8 +44,6 @@ $(document).ready(function () {
         ctrpwr: 12,
         defeated: false
     }];
-
-    
 
 /////////////////////////// Variables   //////////////////////////////////////////////
     var myCharacter;
