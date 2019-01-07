@@ -21,26 +21,26 @@ $(document).ready(function () {
         name: "Luke Skywalker",
         hp: 100,
         imgsrc: "https://i.redd.it/2qmnb44sbt7z.jpg",
-        atkpwr: 7,
-        ctrpwr: 20,
+        atkpwr: 6,
+        ctrpwr: 19,
         defeated: false
     },
     {
         id: "sidious",
         name: "Darth Sidious",
-        hp: 150,
+        hp: 110,
         imgsrc: "https://i.pinimg.com/originals/1c/5d/55/1c5d552ab51f54a2f179019433a32158.jpg",
-        atkpwr: 4,
-        ctrpwr: 10,
+        atkpwr: 5,
+        ctrpwr: 12,
         defeated: false
     },
     {
         id: "maul",
         name: "Darth Maul",
-        hp: 130,
+        hp: 100,
         imgsrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LxobFcCiD3xm9733SctBoEI5TEpdvVNaW9m7DRdNgl66jI0FNA",
         atkpwr: 8,
-        ctrpwr: 12,
+        ctrpwr: 14,
         defeated: false
     }];
 
