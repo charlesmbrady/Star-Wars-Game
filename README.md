@@ -1,4 +1,4 @@
-# unit-4-game
+# Star-Wars Game
 Here's how the app works:
 
 
